@@ -1,0 +1,180 @@
+
+DevConnectHub
+
+WHO IS THIS WEBSITE FOR ?
+
+For myself.
+
+WHAT THE WEBSITE IS FOR ?
+
+BUISNESS GOAL - To get developer data's to sell courses in future.
+USER GOAL - To share thier knowledge and continously acquire knowledge from others.
+
+DEFINE TARGET AUDIENCE ?
+
+software developers, web developers, programmers, web designers and developers and all tech enthusiasts.
+
+EXISTING PLATFORMS;
+
+github
+stack overflow
+dev
+linkedin
+medium
+hackerrank
+codepen
+hashnode
+
+
+WEBISTE PERSONALITY ;
+
+startup / upbeat.
+
+
+1. TYPOGRAPHY;
+
+SANS-SERIF = INTER
+https://fonts.google.com/specimen/Inter?query=inter
+
+gray background ;
+
+light color - #f8f9fa(gray).
+
+
+
+typeface ;
+
+lato
+
+font-size  typescale.
+
+for nornal text 16 to 32 px
+
+for long text try size of 20 px.
+
+for headlines 50px+ and bold 600+ depending on personality.
+
+dont use font weight under 400.
+
+use less than 75 characters per line.
+
+for normal sized text use a line height between 1.5 and 2 for big text go below 1.5
+
+decrease letter spacing in headlines, experiment with all caps for short titles make them small and bold and increase letter spacing.
+
+dont center long text blocks.
+
+2. COLORS
+
+https://tailwindcss.com/docs/customizing-colors
+
+light color - #f8f9fa(gray).
+
+main  color - #1e40af;
+
+lighter - #60a5fa
+light - #2563eb
+main - #1e40af
+darker - #172554
+
+grey color - #1f2937
+
+lighter color - #9ca3af
+light - #4b5563
+main - #1f2937
+darker - #030712
+
+
+
+use important color to important elements in page.
+user colors to add interesting accents or entire components of section stand out.
+
+on dark background try to use a tint of the background
+
+dont make text too light use contrast checker tool. by using contrast checker coolors.
+
+4.5 : 1 for normal text and 3 : 1 for large text.(18px+)
+
+https://coolors.co/contrast-checker/9ca3af-acc8e5
+
+3. Images ;
+
+product photos, story telling photos, illustrations, patterns.
+use images to support website's message and story. so only use relevant images.
+prefer original.
+darken or brighten image completely or partially.
+position text into neutral image areas.
+put text in a box
+to account for high-res screens make image dimensions 2x as big as thier displayed size or even 3x.
+when using images side by side make sure they have the exact same dimensions.
+
+4. Icons ;
+
+https://fontawesome.com/icons
+
+dont mix icon from different icon packs.
+use svg icons.
+adjust to website personality (roundness, weight, filled/outlined depend on typography.).
+use icons to provide visual assistance, product feature, associated with actions, and label then,icon as bullet points, to keep icons neutral use same color as text, to draw attention use different color.
+icons need to make sense.dont make icons larger than what they designed for if needed enclose them in a shape.
+
+
+5. shadows;
+
+shadow creates depth further away from the interface.
+use in small doses.
+go light.
+use small for small elements
+use medium size for larger areas.
+use large shadows for elements that should really float above interface.
+experiment with glows and mose interactions.
+
+6. Border-radius;
+
+to increase the playfulness.
+use borer radius that matches typefaces.
+use border-radius on buttons images around icons, standout sections and other elements.
+
+
+7. WHITE SPACE;
+
+the right amount of whitespaces makes designs look clean, modern and polished.
+implies invisible relationship between elements of layout.
+
+use tons of whitespace between sections.
+use a lot of whitespace between group of elements.
+use white space between elements.
+inside group of elements try to use whitespace instead of lines.
+the more some elements belong together the closer they should be.
+start with a lot of whitespace and remove whitespace from there.
+
+try hard rule such as multiplies of 16
+
+2/4/8/12/16/24/32/48/64/80/96/128px
+
+8. VISUAL HIERARCHY;
+
+use a combination of position, size, colors, spacing, borders and shadows to create hierarchy between elements/components.
+
+position important elements to top of the page.
+larger images draw a lot of attention.
+whitespace strategically emphasize elements.
+for text elements fontsize, fontweight, color and whitespace.
+emphasize an important component using background color shadow or border (or multiple).
+try emphasizing by de-emphasizing other component.
+testimonials, call to action sections, highlight sections, preview cards, forms, pricing, tables, important rows/columns in tables.
+
+9. USER EXPERIENCE.
+
+helps the use decide faster what is the best option.
+dont design complicated layouts.make call-to-action the most prominent element and make the text descriptive.
+use underlined text only for links.
+in fomrs align labels and fields in a single line to make form easier to scan.
+offer users good feedback for all actions form errors, form success.
+place action where they will create an effect
+only include relevant information.
+use simple words.
+break up long text with sub-headings, images, block quotes, bullet points etc...
+
+
+
